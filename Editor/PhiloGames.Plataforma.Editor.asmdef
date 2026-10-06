@@ -1,0 +1,18 @@
+{
+    "name": "PhiloGames.Plataforma.Editor",
+    "rootNamespace": "PhiloGames.Plataforma.Editor",
+    "references": [
+        "PhiloGames.Plataforma"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

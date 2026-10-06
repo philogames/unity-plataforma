@@ -1,0 +1,17 @@
+{
+  "name": "com.philogames.plataforma",
+  "version": "0.1.0",
+  "displayName": "PhiloGames - Plataforma",
+  "description": "A loja onde o jogo roda (Steam hoje, outras amanha), atras de uma fachada nossa: inicializacao da Steam, overlay da loja e conquistas com espelho local. A parte da Steam usa o Steamworks.NET, que cada jogo instala pelo manifest.",
+  "unity": "2022.3",
+  "author": {
+    "name": "PhiloGames",
+    "url": "https://github.com/philogames"
+  },
+  "keywords": [
+    "steam",
+    "steamworks",
+    "conquistas",
+    "plataforma"
+  ]
+}
